@@ -1,0 +1,5 @@
+
+finanace depsrtment to maintain salaary to employees
+emp1-salary-7000$
+emp2-salary-10000$
+emp3-salary-8000$
